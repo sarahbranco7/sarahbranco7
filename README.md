@@ -8,4 +8,4 @@
 - 🎨 Figma
 - 💻 HTML
 
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/sarah-branco-737203405) 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sarah-branco-737203405/) 
