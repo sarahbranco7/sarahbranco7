@@ -8,5 +8,8 @@
 - 🎨 Figma
 - 💻 HTML
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sarah-branco-737203405/)
+<a href="https://www.linkedin.com/in/sarah-branco-737203405/" target="_blank">
+  <img src="https://githubusercontent.com" alt="LinkedIn" height="40">
+</a>
+
 
