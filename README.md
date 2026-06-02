@@ -5,14 +5,18 @@
 - 🎯Aluna da InCode Tech School pelo Oxigeny Hub, Módulo 1.
 
 
-# Estudando 
+
+
+ # Estudando 💻 
 👩🏻‍💻 Tenho me divertido bastante aprendendo sobre:
 - 🐍 Python
 - 🎨 Figma
 - 💻 HTML
 
 
-# Experiências
+
+
+# Experiências ✨
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -21,10 +25,17 @@
 
 
 
-# Redes Sociais
+
+
+# Redes Sociais 😊
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-branco-737203405/)
 
 
-# Obrigada por visitar meu perfil! 
+<div aling="center">
+
+# Obrigada por visitar meu perfil! 🌸
 <img width="388" height="296" alt="OnItYesSirGIF" src="https://github.com/user-attachments/assets/62057489-bf0a-4871-98b1-4660eff28014" />
+
+
+</div>
