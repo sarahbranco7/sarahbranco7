@@ -3,6 +3,9 @@
 
 - ⚖️ Sou estudante do curso de direito, atualmente cursando o 7° período. Em conjunto, entrando no fascinante **mundo da programação**. Me apaixonando cada vez mais por cada conhecimento adquiro.
 
+ <img width="498" height="281" alt="FrierenSousouNoFrierenGIF" src="https://github.com/user-attachments/assets/c906153b-92a7-41fb-8539-b7753929c784" />
+
+
 👩🏻‍💻 Tenho me divertido bastante aprendendo sobre:
 - 🐍 Python
 - 🎨 Figma
