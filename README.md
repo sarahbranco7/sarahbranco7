@@ -2,10 +2,10 @@
 
 
 - ⚖️ Sou estudante do curso de direito, atualmente cursando o 7° período. Em conjunto, entrando no fascinante **mundo da programação**. Me apaixonando cada vez mais por cada conhecimento adquiro.
+- 🎯Aluna da InCode Tech School pelo Oxigeny Hub, Módulo 1.
 
- <img width="498" height="281" alt="FrierenSousouNoFrierenGIF" src="https://github.com/user-attachments/assets/c906153b-92a7-41fb-8539-b7753929c784" />
 
-
+# Estudando 
 👩🏻‍💻 Tenho me divertido bastante aprendendo sobre:
 - 🐍 Python
 - 🎨 Figma
@@ -24,3 +24,7 @@
 # Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-branco-737203405/)
+
+
+# Obrigada por visitar meu perfil! 
+<img width="388" height="296" alt="OnItYesSirGIF" src="https://github.com/user-attachments/assets/62057489-bf0a-4871-98b1-4660eff28014" />
