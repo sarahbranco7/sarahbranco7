@@ -35,7 +35,7 @@
 <div aling="center">
 
 # Obrigada por visitar meu perfil! 🌸
-<img width="388" height="296" alt="OnItYesSirGIF" src="https://github.com/user-attachments/assets/62057489-bf0a-4871-98b1-4660eff28014" />
+![Coding GIF} <img width="388" height="296" alt="OnItYesSirGIF" src="https://github.com/user-attachments/assets/62057489-bf0a-4871-98b1-4660eff28014" />
 
 
-</div>
+
