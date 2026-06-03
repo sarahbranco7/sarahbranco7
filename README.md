@@ -32,10 +32,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-branco-737203405/)
 
 
-<div aling="center">
+
 
 # Obrigada por visitar meu perfil! 🌸
-![Coding GIF} <img width="388" height="296" alt="OnItYesSirGIF" src="https://github.com/user-attachments/assets/62057489-bf0a-4871-98b1-4660eff28014" />
+<div align="center"> 
+<img width="498" height="374" alt="AnimeFrierenGIF" src="https://github.com/user-attachments/assets/3bf9d7a1-b0ec-4822-ac68-be179acedf17" />
+</div>
+
+
 
 
 
